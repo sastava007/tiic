@@ -1579,6 +1579,34 @@ footer ul li a i{
   }
 }
  
+.newsletter .content {
+max-width: 650px;
+
+text-align: center;
+position: relative;
+margin-left: -10px;
+z-index: 2; 
+}
+.newsletter .content .form-control {
+height: 40px;
+border-color: #ffffff;
+border-radius:0;
+
+}
+.newsletter .content.form-control:focus {
+box-shadow: none;
+border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+min-height: 40px; 
+border-radius:0;
+background: #243c4f;
+color: #fff;
+font-weight:600;
+}
+
+
+
 
 @media only screen and (max-width: 767px) {
  .navbar-brand{
