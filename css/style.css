@@ -431,7 +431,7 @@ a:active{
 	color:#444;
 }
 section#about {
-    background: #f3f3f3;
+    background: #EAEAEA;
 }
 section#services {
     background: #ffffff;
@@ -820,6 +820,7 @@ header.page-header .main-menu.minified{
 	margin-bottom: 1px;
 	text-align: center;
 	background-color: #ffffff;
+
 	opacity: 0;
 	border-radius: 50%;
 	padding: 10px;
@@ -859,7 +860,8 @@ header.page-header .main-menu.minified{
 	position: absolute;
 	bottom: 0;
 	padding: 15px 0;
-	background-color: rgba(40,41,46,0.8);
+	/*background-color: rgba(40,41,46,0.8);*/
+	background-color: yellow;
 	opacity: 0;
 	-webkit-transform: translateY(100%);
 	   -moz-transform: translateY(100%);
@@ -968,7 +970,8 @@ header.page-header .main-menu.minified{
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-color: rgba(40, 41, 46, 0.59);
+	/*background-color: rgba(40, 41, 46, 0.59);*/
+	background-color: rgba(82, 167, 224,0.9);
 	display: table;
 	opacity: 0;
 	-webkit-transition: all .3s;
