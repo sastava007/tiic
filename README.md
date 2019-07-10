@@ -10,6 +10,7 @@ But if you wanna peep into the source code then download/clone the github repo f
  - Designed this site keeping in mind the lastest trend of **Single Page Applications (SPA)**
  - Semantic **UI/UX**
  - Fully **responsive** components which makes it feasible for mobile applications also
+ - Included **analytics** for creating detailed report on startups
  - On Scroll Animation using **WOW.js**
  - Carousel for sliders and other images using **OWL.js**
  - Used **preloader.gif** to make loading of site less boring
