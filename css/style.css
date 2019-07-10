@@ -1221,7 +1221,7 @@ header.page-header .main-menu.minified{
 }
 
 /* -------- Pricing Table Style ------- */
-.pricing-section{
+.events-section{
 	padding: 100px 0;
 }
 
@@ -1229,75 +1229,6 @@ header.page-header .main-menu.minified{
 	text-align: center;
 	padding: 30px 15px;
 }
-
-.pricing-plan-one {
-	margin-bottom: 80px;
-}
-.recommended-pricing{
-	background-color: #f5f5f5;
-	padding: 60px;
-	top: -40px;
-	border: 1px solid #ddd;
-	border-radius: 5px;
-}
-.pricing-plans .pricing-titles{
-	text-align: center;
-	border: 1px solid #3498db;
-	border-bottom: 0;
-	padding: 25px 0 15px;
-}
-
-.pricing-plans .pricing-titles h2{
-	font-size: 18px;
-	font-weight: 700;
-	margin-bottom: 17px;
-	color: #111111;
-	margin-top: 10px;
-}
-
-.pricing-plans .pricing-titles p{
-	font-size: 16px;
-	color: #3498db;
-}
-
-.pricing-plans .pricing-titles p span{
-	font-size: 30px;
-	font-weight: 300;
-}
-.pricing-plans .pricing-service-name{
-	background-color: #ffffff;
-	border-left: 1px solid #3498db;
-	border-right: 1px solid #3498db;
-}
-
-.pricing-plans ul li{
-	text-align: center;
-	padding: 20px 0;
-	color: #111111;
-	border-bottom: 2px solid #F9F9F9;
-}
-.pricing-plans a.signup-btn{
-	font-size: 14px;
-	font-weight: 700;
-	color: #ffffff;
-	padding: 15px 30px;
-	text-align: center;
-	display: inline-block;
-	background-color: #3498db;
-	border-color: #3498db;
-}
-.bg-btn {
-	padding: 20px;
-	border-top: none;
-	border: #3498db solid 1px;
-	border-top: none;
-}
-.pricing-plans a.signup-btn:hover{
-	color: #ffffff;
-	background-color: #267fbb;
-	border-color: #267fbb;
-}
-
 
 /* -------- Contact Style ------- */
 #contact-form {
