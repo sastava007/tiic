@@ -7,22 +7,23 @@ But if you wanna peep into the source code then download/clone the github repo f
 
 ## Features
 
- - Designed this site keeping in mind the lastest trend of Single Page Applications (SPA)
- - Semantic UI/UX
- - Fully responsive components which makes it feasible for mobile applications also
- - On Scroll Animation using WOW.js
- - Carousel for sliders and other images using OWL.js
- - Dual Tone color combination
+ - Designed this site keeping in mind the lastest trend of **Single Page Applications (SPA)**
+ - Semantic **UI/UX**
+ - Fully **responsive** components which makes it feasible for mobile applications also
+ - On Scroll Animation using **WOW.js**
+ - Carousel for sliders and other images using **OWL.js**
+ - Used **preloader.gif** to make loading of site less boring
+ - **Dual Tone** color combination
  
 ## Technology Stack / Library
  - HTML5
  - CSS3
  - JS
- - Bootstrap
  - jQuery
+ - Bootstrap
  - WOW.js (for on scroll animation)
  - OWL.js (for carousel effect)
- - Fontawesome5 (for those amazing fonts)
+ - Fontawesome5 (for those amazing icons)
 
 ## About the author
 Hi there!
